@@ -34,6 +34,3 @@ conda activate fitcheck
 python tryon.py
 ```
 
-## Team
-
-Built by a 5-member team at NIT Jamshedpur. Modules owned: pose estimation, body segmentation, garment overlay.
